@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vLiDoYhzxzH373mjSb8ofXFKAl/v4qd0TCZCMWd/Kw/xfUr4dJ7xe/qpIqD+vx8wqOUt7Lce2O23hONsTvzA/A==",
+  "success": true,
+  "projectFilePath": "D:\\E-Drive\\Sunil Sahu\\Stage4\\Hands-on\\cloud\\CloudPracticeCheck\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sahu0\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
